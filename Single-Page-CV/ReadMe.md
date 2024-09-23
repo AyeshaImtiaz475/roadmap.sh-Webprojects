@@ -10,5 +10,7 @@
 
    3. Second is STYLE.CSS file to format the document.
    4. Here is the project url:  https://66f0d2dfde4e9a66add73141--transcendent-taffy-6eab57.netlify.app/
+  
+   5. Project page url: https://roadmap.sh/projects/single-page-cv
 
    
